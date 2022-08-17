@@ -22,7 +22,7 @@ A simple P5.js project exploring the art of flow-field using Perlin Noise + Part
 - Everytime your refresh the page a new drawing will be started.!
 
 ## Live Demo
-- [hairball.netlify.app](hairball.netlify.app)
+- [DEMO](http://hairball.netlify.app)
 
 ## Install
 1. Clone this repo to your machine.
